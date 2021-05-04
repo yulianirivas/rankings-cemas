@@ -65,9 +65,12 @@ Nuestra app **RANKING CEMAS** se realiza de una forma fácil, nosotros buscamos 
  
  ## característica 
  
-* se le hace mas facil a los que utilizaran la app
+* Se le hace mas facil a los que utilizaran la app
 
-* las calificaciones salen sin ningun error
+* Las calificaciones salen sin ningun error
+
+* Esta hecha en programas y codigos iformaticos
+
  
 ## Scripts
 
