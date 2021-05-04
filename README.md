@@ -66,6 +66,8 @@ Nuestra app **RANKING CEMAS** se realiza de una forma fácil, nosotros buscamos 
  ## característica 
  
 * se le hace mas facil a los que utilizaran la app
+
+* las calificaciones salen sin ningun error
  
 ## Scripts
 
