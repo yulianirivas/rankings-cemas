@@ -65,6 +65,8 @@ Nuestra app **RANKING CEMAS** se realiza de una forma fácil, nosotros buscamos 
  
  ## característica 
  
+* se le hace mas facil a los que utilizaran la app
+ 
 ## Scripts
 
 En este proyecto puedes correr los siguientes Scripts:
