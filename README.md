@@ -55,15 +55,15 @@ Nuestra app **RANKING CEMAS** se realiza de una forma fácil, nosotros buscamos 
  
  Esta es una app que todos los estudiantes y maestros podremos utilizar con la fasibilidad de poder adquirir y poner las calificaciones, con esta app no tendremos que ver en una hoja que calificación tenemos solo entrar a la pagina y ver cual es tu calificación, se le ara mas fácil a los maestro porque solo tendrán que poner los numero y directamente le mandara la calificación y promedio.
  
-  ## porque lo hicimos 
+  ## Porque lo hicimos 
   
   Estamos buscando la forma mas facil de hacer o colocarlas calificaciones de todos los cursos. con esta app todo se hara en aparatos electronicos.
  
- ## cual es la importancia 
+ ## Cual es la importancia 
  
  la importancia de esta app es poder ayudar a todos hacer y colocar las calificacion sin complicarse mucho.
  
- ## característica 
+ ## Característica 
  
 * Se le hace mas facil a los que utilizaran la app
 
