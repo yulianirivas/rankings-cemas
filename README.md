@@ -63,6 +63,8 @@ Nuestra app **RANKING CEMAS** se realiza de una forma fácil, nosotros buscamos 
  
  la importancia de esta app es poder ayudar a todos hacer y colocar las calificacion sin complicarse mucho.
  
+ ## característica 
+ 
 ## Scripts
 
 En este proyecto puedes correr los siguientes Scripts:
